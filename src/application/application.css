@@ -1,0 +1,93 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	-fx-background-image:url("dota.jpg"); 
+	-fx-background-size:100% 100%;
+}
+
+#nextB{
+	-fx-graphic:url("Hook2.png");
+	-fx-content-display:top ;
+}
+
+#previousB{
+	-fx-graphic:url("Hook.png");
+	-fx-content-display:top ;
+}
+
+
+.label{
+	-fx-text-fill:red;
+	-fx-font-size: 17px;
+	-fx-font-family: "Arial Black";
+	
+}
+
+#Lm2{
+	
+	-fx-size:400, 300; 
+
+}
+
+#L1{
+	-fx-content-display:top ;
+	-fx-graphic:url("antimage.png");
+	
+	
+}
+
+#L2{
+	-fx-content-display:top ;
+	-fx-graphic:url("broodmother.png");
+	
+}
+
+#L3{
+	-fx-content-display:top ;
+	-fx-graphic:url("crystal_maiden.png");
+	
+}
+
+#L4{
+	-fx-content-display:top ;
+	-fx-graphic:url("enchantress.png");
+
+}
+
+#L5{
+	-fx-content-display:top ;
+	-fx-graphic:url("kunkka.png");
+	
+}
+
+#L6{
+	-fx-content-display:top ;
+	-fx-graphic:url("lina.png");
+	
+}
+
+#L7{
+	-fx-content-display:top ;
+	-fx-graphic:url("luna.png");
+	
+}
+
+#L8{
+	-fx-content-display:top ;
+	-fx-graphic:url("mirana.png");
+	
+}
+
+#L9{
+	-fx-content-display:top ;
+	-fx-graphic:url("pudge.png");
+	
+}
+
+#L10{
+	-fx-content-display:top ;
+	-fx-graphic:url("templar_assassin.png");
+	
+}
+
+
